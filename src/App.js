@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 
-import Register from './Register';
-import Login from './Login';
+import Register from './register/Register';
+import Login from './login/Login';
 
 class App extends Component {
   render() {
